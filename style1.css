@@ -1,0 +1,68 @@
+/*Le code css du code html*/
+.title{
+    text-align: center;
+}
+body{
+    text-align: justify;
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    width: 100%;
+    height: 100vh;
+    background: url("coucher-soleil.jpg") no-repeat 50% 50%;
+    background: cover;
+}
+.systeme{
+    position: ;
+    float: right;
+    color:#fff;
+    margin: 16px 36px;
+    font-weight: bolder;
+    font-size: 24px;
+}
+ul li{
+    position: ;
+    float: left;
+    margin: ;
+    color: aqua;
+    font-weight: bolder;
+    font-size: 24px;
+    display: inline-block;
+    padding: 50px;
+}
+ul li a {
+    text-decoration: none;
+}
+p{
+    position: ;
+    float: ;
+    color: white;
+    margin: ;
+    font-weight: ;
+    font-size: 24px;
+    display: inline-block;
+    padding: 60px;
+}
+p a{
+    text-decoration: none;
+}
+.dessous{
+    text-align: center;
+    background-color: dimgray;
+}
+#fixer{
+    background:url("togo-lome-plage.jpg") repeat 100% 100% fixed;
+}
+.bas li{
+    position: ;
+    float: ;
+    margin: 12px;
+    background-color:white;
+    font-weight: bolder;
+    font-size: 24px;
+    display: inline-block;
+    padding: 50px;
+    color: blue;
+}
